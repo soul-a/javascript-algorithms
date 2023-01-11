@@ -27,6 +27,12 @@ _Read this in other languages:_
 [_Tiếng Việt_](README.vi-VN.md),
 [_Deutsch_](README.de-DE.md)
 
+
+
+dsadsadsa
+
+dsadsads
+
 ## データ構造
 
 データ構造は、データ値、データ値との間の関係、
